@@ -2,13 +2,6 @@
 text-decoration: underlined;
 text-color: red;
 }
-span {
-color: red;
-}
 .list:nth-child(1) {
 text-decoration: bold;
-}
-#hai:hover {
-font-size: 36px;
-font-decoration: underlined;
 }
